@@ -4,4 +4,4 @@
 -jauho
 -kana
 -muna
--jotain
+-jotain pikkukivaa
